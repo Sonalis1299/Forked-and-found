@@ -33,7 +33,8 @@ npm install     # Run this if not already done
 npm start
 ```
 
-**💡 Major Features/**
+## 💡 Major Features
+
 🍳 Smart Recipe Generator – Suggests recipes using leftover or near-expiry ingredients.
 
 🏆 Anapoorna Challenge – A challenge feature for housewives or anyone who wants to participate and win weekly and monthly prizes by sharing recipes and reducing food waste.
@@ -41,7 +42,7 @@ npm start
 🤝 Food Sharing Platform – Users can donate extra food or find available meals nearby to help reduce waste and support community welfare.
 
 
-**📁 Technologies Used/**
+## 📁 Technologies Used
 
 React.js
 
@@ -58,7 +59,7 @@ RecipeDB and FlavorDB
 Git & GitHub for version control
 
 
-**👥 Team/**
+## 👥 Team
 
 Built with ❤️ during the IIIT Delhi Hackathon by:
 
